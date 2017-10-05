@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#navigation {
+	margin: center;
+    padding: 0 0 20px 500px;
+	border-bottom: 1px solid black;
+	color: black;
+	font-family: verdana, arial, sans-serif;
+	display: center;
+	text-align: center;
+}
+
+#navigation a:hover {
+	border-bottom: 4px solid #040404;
+	padding-bottom: 2px;
+}
+#navigation li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: inline;
+	font-family: verdana, arial, sans-serif;
+	font-size: 0.8em;
+	text-align: center;
+}
+#navigation a {
+	text-decorations: none;
+	font-weight: bold;
+	float: left;
+	margin: 0 10px 0 10px;
+	color: #090808;
+	text-align: center;
+}
+h1{
+	padding: 10px 20px 0;
+	font-size: 5em;
+}
+
+.billede {
+  float: left;
+  width: 250px;
+  font-family: Veranda;
+}
+	
+.heading {
+	float: center;
+	padding: 1px 340px 10px 10px;
+	text-align: right;
+}
+
+
